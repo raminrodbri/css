@@ -1,0 +1,22 @@
+/*footer*/
+.footer_container {
+    direction: rtl;
+    background-color: #090E10;
+    padding: 50px;
+}
+/*p*/
+.copyright {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    color: #fefefe;
+    text-align: center;
+    padding: 40px 0px 10px 0px;
+    font-size: 20px;
+    border-bottom: 1px solid #222;
+}
+/*p info*/
+.footer_info {
+    color: #fefefe;
+    font-size: 18px;
+    text-align: center;
+}
