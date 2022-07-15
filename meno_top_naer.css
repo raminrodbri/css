@@ -1,0 +1,21 @@
+/* nav */
+.top_navbar {
+    direction: rtl;
+    overflow: auto;
+    white-space: nowrap;
+    background-color: #1D252A;
+}
+/* text - a */
+.top_navbar_link {
+    top: 30px;
+    right: 20px;
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    text-decoration: none;
+    color: #fefefe;
+    transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    -moz-transition: all .2s linear;
+    -o-transition: all .2s linear;
+}
